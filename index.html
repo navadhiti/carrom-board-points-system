@@ -4,13 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NPL Points Table</title>
-    <link rel="icon" type="image/x-icon" href="./nd-logo.svg">
+    <link rel="icon" type="image/x-icon" href="./nd-logo.svg" />
     <style>
       body {
         font-family: Arial, sans-serif;
-        background-color: #f1f1f1;
+        background-color: #fff;
         margin: 0;
         padding: 0;
+      }
+      .container {
+        height: 100%;
+        position: absolute;
+        top: -2%;
+        z-index: -1;
+        transform: rotate(-49deg);
+        left: 5.1%;
+        opacity: 0.3;
       }
       h2 {
         text-align: center;
@@ -24,6 +33,7 @@
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
         border-radius: 10px;
         overflow: hidden;
+        z-index: 999;
       }
       th,
       td {
@@ -32,7 +42,7 @@
         padding: 12px;
       }
       th {
-        background-color: #4caf50;
+        background-color: #becf1f;
         color: white;
       }
       tr:nth-child(even) {
@@ -52,12 +62,13 @@
     </style>
   </head>
   <body>
-    
-    <h2><span class="trophy">🏆</span> NavaDhiti Premier League Points Table <span class="trophy">🏆</span></h2>
+    <h2>
+      <span class="trophy">🏆</span> NavaDhiti Premier League Points Table
+      <span class="trophy">🏆</span>
+    </h2>
     <table id="points-table">
       <thead>
         <tr>
-          <th>Sl No</th>
           <th>Team</th>
           <th>Players</th>
           <th>Matches Played</th>
@@ -70,7 +81,15 @@
       </thead>
       <tbody></tbody>
     </table>
-<!--     <img src="nd-logo.svg" alt="Navadhiti Logo" style="margin: 0 10px; width: 100px; height: auto;" /> -->
+    <!-- <div class="container">
+      <img
+        src="nd-logo.svg"
+        alt="Navadhiti Logo"
+        style="margin: 0 10px; width: 100px; height: auto"
+      />
+    </div> -->
+
+    <!-- <img src="nd-logo.svg" alt="Navadhiti Logo" style="margin: 0 10px; width: 100px; height: auto;" /> -->
 
     <script>
       async function fetchData() {
@@ -100,8 +119,7 @@
           .getElementsByTagName("tbody")[0];
         for (var i = 0; i < data.length; i++) {
           var newRow = table.insertRow();
-          newRow.insertCell().innerHTML = data[i]["Sl No"];
-          newRow.insertCell().innerHTML = data[i]["Name"] || "N/A";
+          newRow.insertCell().innerHTML = data[i]["Name"];
           newRow.insertCell().innerHTML = data[i]["Team"];
           newRow.insertCell().innerHTML = data[i]["Matches Played"];
           newRow.insertCell().innerHTML = data[i]["Won"];
