@@ -1,0 +1,152 @@
+[
+    {
+        "Team": "Santhosh & Sneha",
+        "Matches Played": 2,
+        "Won": 2,
+        "Lost": 0,
+        "NCR": [
+            {
+                "minutes": 6,
+                "sec": 24
+            },
+            {
+                "minutes": 10,
+                "sec": 15
+            }
+        ],
+        "GameSequence": "WW",
+        "Name": "Strike Surgeons"
+    },
+    {
+        "Team": "John & Elvin",
+        "Matches Played": 2,
+        "Won": 0,
+        "Lost": 2,
+        "NCR": [
+            {
+                "minutes": 4,
+                "sec": 16
+            },
+            {
+                "minutes": 10,
+                "sec": 15
+            }
+        ],
+        "GameSequence": "LL"
+    },
+    {
+        "Team": "Yunus & Shubham",
+        "Matches Played": 1,
+        "Won": 0,
+        "Lost": 1,
+        "NCR": [
+            {
+                "minutes": 6,
+                "sec": 24
+            }
+        ],
+        "GameSequence": "L"
+    },
+    {
+        "Team": "Arun & Shalini",
+        "Matches Played": 2,
+        "Won": 0,
+        "Lost": 2,
+        "NCR": [
+            {
+                "minutes": 4,
+                "sec": 0
+            },
+            {
+                "minutes": 7,
+                "sec": 5
+            }
+        ],
+        "GameSequence": "LL",
+        "Name": "Xd-strange"
+    },
+    {
+        "Team": "Siddik & Goutham",
+        "Matches Played": 2,
+        "Won": 2,
+        "Lost": 0,
+        "NCR": [
+            {
+                "minutes": 4,
+                "sec": 0
+            },
+            {
+                "minutes": 4,
+                "sec": 16
+            }
+        ],
+        "GameSequence": "WW"
+    },
+    {
+        "Team": "Kavitha & Dharani",
+        "Matches Played": 1,
+        "Won": 0,
+        "Lost": 1,
+        "NCR": [
+            {
+                "minutes": 2,
+                "sec": 27
+            }
+        ],
+        "GameSequence": "L",
+        "Name": "Carrom Conquerors"
+    },
+    {
+        "Team": "Vishwa & Punith",
+        "Matches Played": 1,
+        "Won": 1,
+        "Lost": 0,
+        "NCR": [
+            {
+                "minutes": 7,
+                "sec": 5
+            }
+        ],
+        "GameSequence": "W"
+    },
+    {
+        "Team": "Ankitha & Sachin",
+        "Matches Played": 1,
+        "Won": 1,
+        "Lost": 0,
+        "NCR": [
+            {
+                "minutes": 2,
+                "sec": 27
+            }
+        ],
+        "GameSequence": "W"
+    },
+    {
+        "Team": "Likitha & Likhito",
+        "Matches Played": 1,
+        "Won": 0,
+        "Lost": 1,
+        "NCR": [
+            {
+                "minutes": 5,
+                "sec": 13
+            }
+        ],
+        "GameSequence": "L"
+    },
+    {
+        "Team": "Arun & Vanavarayan",
+        "Matches Played": 1,
+        "Won": 1,
+        "Lost": 0,
+        "NCR": [
+            {
+                "minutes": 5,
+                "sec": 13
+            }
+        ],
+        "GameSequence": "W",
+        "Name": "Legends of Unlistedkart"
+    }
+]
