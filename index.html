@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NPL Points Table</title>
+    <link rel="icon" type="image/x-icon" href="./nd-logo.svg">
     <style>
       body {
         font-family: Arial, sans-serif;
@@ -13,7 +14,7 @@
       }
       h2 {
         text-align: center;
-        color: #333;
+        color: #5F6368;
         margin-top: 20px;
       }
       table {
@@ -51,8 +52,8 @@
     </style>
   </head>
   <body>
-    <h2><span class="trophy">🏆</span> NPL Points Table <span class="trophy">🏆</span></h2>
     
+    <h2><span class="trophy">🏆</span> NPL Points Table <span class="trophy">🏆</span></h2>
     <table id="points-table">
       <thead>
         <tr>
@@ -68,13 +69,12 @@
       </thead>
       <tbody></tbody>
     </table>
+    <img src="nd-logo.svg" alt="Navadhiti Logo" style="margin: 0 10px; width: 100px; height: auto;" />
 
     <script>
       async function fetchData() {
         const response = await fetch("index.json");
         const data = await response.json();
-        // data.sort((a, b) => (b["Won"] * 2) - (a["Won"] * 2));
-
         // Sort the data based on NCR and points
         data.sort((a, b) => {
           const aPoints = a["Won"] * 2;
