@@ -32,7 +32,8 @@
                 "sec": 15
             }
         ],
-        "GameSequence": "LL"
+        "GameSequence": "LL",
+        "Name": "Gamma Watt"
     },
     {
         "Team": "Yunus & Shubham",
@@ -45,7 +46,8 @@
                 "sec": 24
             }
         ],
-        "GameSequence": "L"
+        "GameSequence": "L",
+        "Name": "Carrom Warriors"
     },
     {
         "Team": "Arun & Shalini",
@@ -80,7 +82,8 @@
                 "sec": 16
             }
         ],
-        "GameSequence": "WW"
+        "GameSequence": "WW",
+        "Name": "Due Diligence"
     },
     {
         "Team": "Kavitha & Dharani",
@@ -107,7 +110,8 @@
                 "sec": 5
             }
         ],
-        "GameSequence": "W"
+        "GameSequence": "W",
+        "Name": "Board Bashers"
     },
     {
         "Team": "Ankitha & Sachin",
@@ -120,7 +124,8 @@
                 "sec": 27
             }
         ],
-        "GameSequence": "W"
+        "GameSequence": "W",
+        "Name": "Royal Rovers"
     },
     {
         "Team": "Likitha & Likhito",
@@ -133,7 +138,8 @@
                 "sec": 13
             }
         ],
-        "GameSequence": "L"
+        "GameSequence": "L",
+        "Name": "Balanced Dynamo"
     },
     {
         "Team": "Arun & Vanavarayan",
@@ -147,6 +153,6 @@
             }
         ],
         "GameSequence": "W",
-        "Name": "Legends of Unlistedkart"
+        "Name": "Pocket Panthers"
     }
 ]
