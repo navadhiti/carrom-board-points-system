@@ -1,6 +1,6 @@
 [
     {
-        "Team": "Santhosh & Sneha",
+        "Team": "Santosh & Sneha",
         "Matches Played": 2,
         "Won": 2,
         "Lost": 0,
@@ -15,7 +15,8 @@
             }
         ],
         "GameSequence": "WW",
-        "Name": "Strike Surgeons"
+        "Name": "Strike Surgeons",
+        "Sl No": 1 
     },
     {
         "Team": "John & Elvin",
@@ -33,7 +34,8 @@
             }
         ],
         "GameSequence": "LL",
-        "Name": "Gamma Watt"
+        "Name": "Gamma Watt",
+        "Sl No": 2
     },
     {
         "Team": "Yunus & Shubham",
@@ -47,7 +49,8 @@
             }
         ],
         "GameSequence": "L",
-        "Name": "Carrom Warriors"
+        "Name": "Carrom Warriors",
+        "Sl No": 3
     },
     {
         "Team": "Arun & Shalini",
@@ -65,7 +68,8 @@
             }
         ],
         "GameSequence": "LL",
-        "Name": "Xd-strange"
+        "Name": "Xd-strange",
+        "Sl No": 4
     },
     {
         "Team": "Siddik & Goutham",
@@ -83,7 +87,8 @@
             }
         ],
         "GameSequence": "WW",
-        "Name": "Due Diligence"
+        "Name": "Due Diligence",
+        "Sl No": 5
     },
     {
         "Team": "Kavitha & Dharani",
@@ -97,7 +102,8 @@
             }
         ],
         "GameSequence": "L",
-        "Name": "Carrom Conquerors"
+        "Name": "Carrom Conquerors",
+        "Sl No": 6
     },
     {
         "Team": "Vishwa & Punith",
@@ -111,7 +117,8 @@
             }
         ],
         "GameSequence": "W",
-        "Name": "Board Bashers"
+        "Name": "Board Bashers",
+        "Sl No": 7
     },
     {
         "Team": "Ankitha & Sachin",
@@ -125,7 +132,8 @@
             }
         ],
         "GameSequence": "W",
-        "Name": "Royal Rovers"
+        "Name": "Royal Rovers",
+        "Sl No": 8
     },
     {
         "Team": "Likitha & Likhito",
@@ -139,7 +147,8 @@
             }
         ],
         "GameSequence": "L",
-        "Name": "Balanced Dynamo"
+        "Name": "Balanced Dynamo",
+        "Sl No": 9
     },
     {
         "Team": "Arun & Vanavarayan",
@@ -153,6 +162,7 @@
             }
         ],
         "GameSequence": "W",
-        "Name": "Pocket Panthers"
+        "Name": "Pocket Panthers",
+        "Sl No": 10
     }
 ]

@@ -57,6 +57,7 @@
     <table id="points-table">
       <thead>
         <tr>
+          <th>Sl No</th>
           <th>Team</th>
           <th>Players</th>
           <th>Matches Played</th>
@@ -99,6 +100,7 @@
           .getElementsByTagName("tbody")[0];
         for (var i = 0; i < data.length; i++) {
           var newRow = table.insertRow();
+          newRow.insertCell().innerHTML = data[i]["Sl No"];
           newRow.insertCell().innerHTML = data[i]["Name"] || "N/A";
           newRow.insertCell().innerHTML = data[i]["Team"];
           newRow.insertCell().innerHTML = data[i]["Matches Played"];
