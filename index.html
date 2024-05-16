@@ -69,6 +69,7 @@
     <table id="points-table">
       <thead>
         <tr>
+          <th>Sl. No</th>
           <th>Team</th>
           <th>Players</th>
           <th>Matches Played</th>
@@ -94,7 +95,7 @@
     <script>
       async function fetchData() {
         const response = await fetch("index.json");
-        const data = await response.json();
+        let data = await response.json();
         // Sort the data based on NCR and points
         data.sort((a, b) => {
           const aPoints = a["Won"] * 2;
@@ -109,6 +110,16 @@
 
           return bPoints - aPoints; // Sorting points in descending order
         });
+
+        data.forEach(
+          (element, index) =>
+            (data[index] = {
+              ...element,
+              "Matches Played": element["GameSequence"].length,
+              Won: (element["GameSequence"].match(/W/g) || []).length,
+              Lost: (element["GameSequence"].match(/L/g) || []).length,
+            })
+        );
         return data;
       }
 
@@ -119,6 +130,7 @@
           .getElementsByTagName("tbody")[0];
         for (var i = 0; i < data.length; i++) {
           var newRow = table.insertRow();
+          newRow.insertCell().innerHTML = i + 1;
           newRow.insertCell().innerHTML = data[i]["Name"];
           newRow.insertCell().innerHTML = data[i]["Team"];
           newRow.insertCell().innerHTML = data[i]["Matches Played"];
