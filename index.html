@@ -72,6 +72,7 @@
           <th>Sl. No</th>
           <th>Team</th>
           <th>Players</th>
+          <th>Squads</th>
           <th>Matches Played</th>
           <th>Won</th>
           <th>Lost</th>
@@ -140,6 +141,7 @@
           newRow.insertCell().innerHTML = i + 1;
           newRow.insertCell().innerHTML = data[i]["Name"];
           newRow.insertCell().innerHTML = data[i]["Team"];
+          newRow.insertCell().innerHTML = `<img src="${data[i]["Player_1"]}" alt="${data[i]["Name"]}" style="width: 40px; height: 40px; border-radius: 50%;"> <img src="${data[i]["Player_2"]}" alt="${data[i]["Name"]}" style="width: 40px; height: 40px; border-radius: 50%;">`;
           newRow.insertCell().innerHTML = data[i]["Matches Played"];
           newRow.insertCell().innerHTML = data[i]["Won"];
           newRow.insertCell().innerHTML = data[i]["Lost"];
