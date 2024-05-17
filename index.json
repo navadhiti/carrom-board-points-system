@@ -1,235 +1,204 @@
 [
-    {
-      "Team": "Santosh & Sneha",
-      "Matches Played": 4,
-      "Player_1": "https://www.navadhiti.com/static/fc630cca01e7ce260a6ad7943ff19c5d/baca8/SantoshKori.webp",
-      "Player_2": "https://www.navadhiti.com/static/d3a14c89738560216f7e981a93b11a97/70d05/snehad.webp",
-      "Won": 4,
-      "Lost": 0,
-      "NCR": [
-        {
-          "minutes": 6,
-          "sec": 24
-        },
-        {
-          "minutes": 10,
-          "sec": 15
-        },
-        {
-          "minutes": 18,
-          "sec": 13
-        },
-        {
-          "minutes": 7,
-          "sec": 38
-        }
-      ],
-      "GameSequence": "WWWW",
-      "Name": "Strike Surgeons"
-    },
-    {
-      "Team": "John & Elvin",
-      "Matches Played": 3,
-      "Player_1": "https://www.navadhiti.com/static/7b6a5ce8edda1e5d0371e3cac1308c77/0573b/John%20Richard%20I.webp",
-      "Player_2": "https://www.navadhiti.com/static/93468ab8d5a7376d361b1caa301fda49/d4050/Elvin.webp",
-      "Won": 0,
-      "Lost": 3,
-      "NCR": [
-        {
-          "minutes": 4,
-          "sec": 16
-        },
-        {
-          "minutes": 10,
-          "sec": 15
-        },
-        {
-          "minutes": 19,
-          "sec": 10
-        }
-      ],
-      "GameSequence": "LLL",
-      "Name": "Gamma Watt"
-    },
-    {
-      "Team": "Yunus & Shubham",
-      "Matches Played": 3,
-      "Player_1": "https://www.navadhiti.com/static/600bcac53a8dc74d3a4d63b3f12f4d00/6cfc0/yunus.webp",
-      "Player_2": "https://www.navadhiti.com/static/47c519753ea79561c16719cc5c4ca0df/441a5/shubham_wasnik.webp",
-      "Won": 2,
-      "Lost": 1,
-      "NCR": [
-        {
-          "minutes": 6,
-          "sec": 24
-        },
-        {
-          "minutes": 2,
-          "sec": 8
-        },
-        {
-          "minutes": 5,
-          "sec": 19
-        }
-      ],
-      "GameSequence": "LWW",
-      "Name": "Carrom Warriors"
-    },
-    {
-      "Team": "Arun & Shalini",
-      "Matches Played": 3,
-      "Player_1": "https://www.navadhiti.com/static/19dbdc3ec273b28566162a7bce2c93b8/da5d4/arun-jai.webp",
-      "Player_2": "https://www.navadhiti.com/static/c61c1be872b4c4b0e1ca26b09241eacf/b55e7/shalini1.webp",
-      "Won": 0,
-      "Lost": 3,
-      "NCR": [
-        {
-          "minutes": 4,
-          "sec": 0
-        },
-        {
-          "minutes": 7,
-          "sec": 5
-        },
-        {
-          "minutes": 8,
-          "sec": 39
-        }
-      ],
-      "GameSequence": "LLL",
-      "Name": "Xd-Strange"
-    },
-    {
-      "Team": "Siddik & Goutham",
-      "Matches Played": 3,
-      "Player_1": "https://www.navadhiti.com/static/1eb7ef603e29b1aaafa23e5c78b82048/b55e7/siddik1.webp",
-      "Player_2": "https://www.navadhiti.com/static/f27013c911df2e112241b673b100d6c0/b55e7/Goutham_B.webp",
-      "Won": 2,
-      "Lost": 1,
-      "NCR": [
-        {
-          "minutes": 4,
-          "sec": 0
-        },
-        {
-          "minutes": 4,
-          "sec": 16
-        },
-        {
-          "minutes": 2,
-          "sec": 8
-        }
-      ],
-      "GameSequence": "WWL",
-      "Name": "Due Diligence"
-    },
-    {
-      "Team": "Kavitha & Dharani",
-      "Matches Played": 1,
-      "Player_1": "https://www.navadhiti.com/static/8e3a75931554002ef3ee1df4a59442b0/2f313/kavitharani.webp",
-      "Player_2": "https://www.navadhiti.com/static/4dd91a7820219de9ed18760d7b499a3a/b55e7/dharani.webp",
-      "Won": 0,
-      "Lost": 1,
-      "NCR": [
-        {
-          "minutes": 2,
-          "sec": 27
-        }
-      ],
-      "GameSequence": "L",
-      "Name": "Carrom Conquerors"
-    },
-    {
-      "Team": "Vishwa & Punith",
-      "Matches Played": 4,
-      "Player_1": "https://www.navadhiti.com/static/78f1cea449ff47c14dbe91aa5d7e2194/fbed4/vishwanath.webp",
-      "Player_2": "https://www.navadhiti.com/static/07d89e32b006a89cd85e50247f7b7fda/b55e7/Punith.webp",
-      "Won": 1,
-      "Lost": 3,
-      "NCR": [
-        {
-          "minutes": 7,
-          "sec": 5
-        },
-        {
-          "minutes": 18,
-          "sec": 13
-        },
-        {
-          "minutes": 2,
-          "sec": 4
-        },
-        {
-          "minutes": 5,
-          "sec": 19
-        }
-      ],
-      "GameSequence": "WLLL",
-      "Name": "Board Bashers"
-    },
-    {
-      "Team": "Ankitha & Sachin",
-      "Matches Played": 2,
-      "Player_1": "https://www.navadhiti.com/static/dd8f0d81c89c01dae4f7e242abe4ce45/7aaed/Ankita.webp",
-      "Player_2": "https://www.navadhiti.com/static/90f37befa6bb5e9b93419ef48ca72609/096e0/sachinragul.webp",
-      "Won": 2,
-      "Lost": 0,
-      "NCR": [
-        {
-          "minutes": 2,
-          "sec": 27
-        },
-        {
-          "minutes": 8,
-          "sec": 39
-        }
-      ],
-      "GameSequence": "WW",
-      "Name": "Royal Rovers"
-    },
-    {
-      "Team": "Likitha & Likhito",
-      "Matches Played": 3,
-      "Player_1": "https://www.navadhiti.com/static/a65d7646543eb543ab2443b6d1a4d9e4/46436/likhitha.webp",
-      "Player_2": "https://www.navadhiti.com/static/ead635917112e5cd75a3f7dfc263c2e0/3a852/K%20Likhit%20Kumar.webp",
-      "Won": 1,
-      "Lost": 2,
-      "NCR": [
-        {
-          "minutes": 5,
-          "sec": 13
-        },
-        {
-          "minutes": 19,
-          "sec": 10
-        },
-        {
-          "minutes": 7,
-          "sec": 38
-        }
-      ],
-      "GameSequence": "LWL",
-      "Name": "Balanced Dynamo"
-    },
-    {
-      "Team": "Arun & Vanavarayan",
-      "Matches Played": 2,
-      "Player_1": "https://www.navadhiti.com/static/131d799ba774f5500416cb9782911844/d4050/aa.webp",
-      "Player_2": "https://www.navadhiti.com/static/efa56c6df51bf5e743429639b2f78606/73bad/vanu.webp",
-      "Won": 2,
-      "Lost": 0,
-      "NCR": [
-        {
-          "minutes": 5,
-          "sec": 13
-        },
-        {
-          "minutes": 2,
-          "sec": 4
-        }
-      ],
-      "GameSequence": "WW",
-      "Name": "Pocket Panthers"
-    }
-  ]
-  
+  {
+    "Team": "Santosh & Sneha",
+    "Player_1": "https://www.navadhiti.com/static/fc630cca01e7ce260a6ad7943ff19c5d/baca8/SantoshKori.webp",
+    "Player_2": "https://www.navadhiti.com/static/d3a14c89738560216f7e981a93b11a97/70d05/snehad.webp",
+    "NCR": [
+      {
+        "minutes": 6,
+        "sec": 24
+      },
+      {
+        "minutes": 10,
+        "sec": 15
+      },
+      {
+        "minutes": 18,
+        "sec": 13
+      },
+      {
+        "minutes": 7,
+        "sec": 38
+      }
+    ],
+    "GameSequence": "WWWW",
+    "Name": "Strike Surgeons"
+  },
+  {
+    "Team": "John & Elvin",
+    "Player_1": "https://www.navadhiti.com/static/7b6a5ce8edda1e5d0371e3cac1308c77/0573b/John%20Richard%20I.webp",
+    "Player_2": "https://www.navadhiti.com/static/93468ab8d5a7376d361b1caa301fda49/d4050/Elvin.webp",
+    "NCR": [
+      {
+        "minutes": 4,
+        "sec": 16
+      },
+      {
+        "minutes": 10,
+        "sec": 15
+      },
+      {
+        "minutes": 19,
+        "sec": 10
+      }
+    ],
+    "GameSequence": "LLL",
+    "Name": "Gamma Watt"
+  },
+  {
+    "Team": "Yunus & Shubham",
+    "Player_1": "https://www.navadhiti.com/static/600bcac53a8dc74d3a4d63b3f12f4d00/6cfc0/yunus.webp",
+    "Player_2": "https://www.navadhiti.com/static/47c519753ea79561c16719cc5c4ca0df/441a5/shubham_wasnik.webp",
+    "NCR": [
+      {
+        "minutes": 6,
+        "sec": 24
+      },
+      {
+        "minutes": 2,
+        "sec": 8
+      },
+      {
+        "minutes": 5,
+        "sec": 19
+      }
+    ],
+    "GameSequence": "LWW",
+    "Name": "Carrom Warriors"
+  },
+  {
+    "Team": "Arun & Shalini",
+    "Player_1": "https://www.navadhiti.com/static/19dbdc3ec273b28566162a7bce2c93b8/da5d4/arun-jai.webp",
+    "Player_2": "https://www.navadhiti.com/static/c61c1be872b4c4b0e1ca26b09241eacf/b55e7/shalini1.webp",
+    "NCR": [
+      {
+        "minutes": 4,
+        "sec": 0
+      },
+      {
+        "minutes": 7,
+        "sec": 5
+      },
+      {
+        "minutes": 8,
+        "sec": 39
+      }
+    ],
+    "GameSequence": "LLL",
+    "Name": "Xd-Strange"
+  },
+  {
+    "Team": "Siddik & Goutham",
+    "Player_1": "https://www.navadhiti.com/static/1eb7ef603e29b1aaafa23e5c78b82048/b55e7/siddik1.webp",
+    "Player_2": "https://www.navadhiti.com/static/f27013c911df2e112241b673b100d6c0/b55e7/Goutham_B.webp",
+    "NCR": [
+      {
+        "minutes": 4,
+        "sec": 0
+      },
+      {
+        "minutes": 4,
+        "sec": 16
+      },
+      {
+        "minutes": 2,
+        "sec": 8
+      }
+    ],
+    "GameSequence": "WWL",
+    "Name": "Due Diligence"
+  },
+  {
+    "Team": "Kavitha & Dharani",
+    "Player_1": "https://www.navadhiti.com/static/8e3a75931554002ef3ee1df4a59442b0/2f313/kavitharani.webp",
+    "Player_2": "https://www.navadhiti.com/static/4dd91a7820219de9ed18760d7b499a3a/b55e7/dharani.webp",
+    "NCR": [
+      {
+        "minutes": 2,
+        "sec": 27
+      }
+    ],
+    "GameSequence": "L",
+    "Name": "Carrom Conquerors"
+  },
+  {
+    "Team": "Vishwa & Punith",
+    "Player_1": "https://www.navadhiti.com/static/78f1cea449ff47c14dbe91aa5d7e2194/fbed4/vishwanath.webp",
+    "Player_2": "https://www.navadhiti.com/static/07d89e32b006a89cd85e50247f7b7fda/b55e7/Punith.webp",
+    "NCR": [
+      {
+        "minutes": 7,
+        "sec": 5
+      },
+      {
+        "minutes": 18,
+        "sec": 13
+      },
+      {
+        "minutes": 2,
+        "sec": 4
+      },
+      {
+        "minutes": 5,
+        "sec": 19
+      }
+    ],
+    "GameSequence": "WLLL",
+    "Name": "Board Bashers"
+  },
+  {
+    "Team": "Ankitha & Sachin",
+    "Player_1": "https://www.navadhiti.com/static/dd8f0d81c89c01dae4f7e242abe4ce45/7aaed/Ankita.webp",
+    "Player_2": "https://www.navadhiti.com/static/90f37befa6bb5e9b93419ef48ca72609/096e0/sachinragul.webp",
+    "NCR": [
+      {
+        "minutes": 2,
+        "sec": 27
+      },
+      {
+        "minutes": 8,
+        "sec": 39
+      }
+    ],
+    "GameSequence": "WW",
+    "Name": "Royal Rovers"
+  },
+  {
+    "Team": "Likitha & Likhito",
+    "Player_1": "https://www.navadhiti.com/static/a65d7646543eb543ab2443b6d1a4d9e4/46436/likhitha.webp",
+    "Player_2": "https://www.navadhiti.com/static/ead635917112e5cd75a3f7dfc263c2e0/3a852/K%20Likhit%20Kumar.webp",
+    "NCR": [
+      {
+        "minutes": 5,
+        "sec": 13
+      },
+      {
+        "minutes": 19,
+        "sec": 10
+      },
+      {
+        "minutes": 7,
+        "sec": 38
+      }
+    ],
+    "GameSequence": "LWL",
+    "Name": "Balanced Dynamo"
+  },
+  {
+    "Team": "Arun & Vanavarayan",
+    "Player_1": "https://www.navadhiti.com/static/131d799ba774f5500416cb9782911844/d4050/aa.webp",
+    "Player_2": "https://www.navadhiti.com/static/efa56c6df51bf5e743429639b2f78606/73bad/vanu.webp",
+    "NCR": [
+      {
+        "minutes": 5,
+        "sec": 13
+      },
+      {
+        "minutes": 2,
+        "sec": 4
+      }
+    ],
+    "GameSequence": "WW",
+    "Name": "Pocket Panthers"
+  }
+]
