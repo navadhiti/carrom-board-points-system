@@ -69,6 +69,7 @@
     <table id="points-table">
       <thead>
         <tr>
+          <th>Sl. No</th>
           <th>Team</th>
           <th>Players</th>
           <th>Matches Played</th>
@@ -94,7 +95,14 @@
     <script>
       async function fetchData() {
         const response = await fetch("index.json");
-        const data = await response.json();
+        let data = await response.json();
+
+        data.forEach((element) => {
+          element["Matches Played"] = element["GameSequence"].length;
+          element["Won"] = (element["GameSequence"].match(/W/g) || []).length;
+          element["Lost"] = (element["GameSequence"].match(/L/g) || []).length;
+        });
+
         // Sort the data based on NCR and points
         data.sort((a, b) => {
           const aPoints = a["Won"] * 2;
@@ -109,6 +117,16 @@
 
           return bPoints - aPoints; // Sorting points in descending order
         });
+
+        data.forEach(
+          (element, index) =>
+            (data[index] = {
+              ...element,
+              "Matches Played": element["GameSequence"].length,
+              Won: (element["GameSequence"].match(/W/g) || []).length,
+              Lost: (element["GameSequence"].match(/L/g) || []).length,
+            })
+        );
         return data;
       }
 
@@ -119,6 +137,7 @@
           .getElementsByTagName("tbody")[0];
         for (var i = 0; i < data.length; i++) {
           var newRow = table.insertRow();
+          newRow.insertCell().innerHTML = i + 1;
           newRow.insertCell().innerHTML = data[i]["Name"];
           newRow.insertCell().innerHTML = data[i]["Team"];
           newRow.insertCell().innerHTML = data[i]["Matches Played"];
@@ -136,22 +155,24 @@
       function calculateNCR(sequence, ncr) {
         let totalTime = 0;
         for (let j = 0; j < sequence.length; j++) {
-          const matchTime = ncr[j]["minutes"] * 60 + ncr[j]["sec"];
-          const matchInMin = matchTime / 900;
+          if (ncr[j]) {
+            const matchTime = ncr[j]["minutes"] * 60 + ncr[j]["sec"];
+            const matchInMin = matchTime / 900;
 
-          if (matchTime <= 900) {
-            // If match duration is 15 minutes or less
-            if (sequence[j] === "W") {
-              totalTime += matchInMin;
+            if (matchTime <= 900) {
+              // If match duration is 15 minutes or less
+              if (sequence[j] === "W") {
+                totalTime += matchInMin;
+              } else {
+                totalTime -= matchInMin;
+              }
             } else {
-              totalTime -= matchInMin;
+              // If match duration exceeds 15 minutes
+              const exceededTime = matchTime - 900;
+              const fraction = exceededTime / 60; // Convert exceeded time to minutes
+              const adjustment = fraction * 0.1;
+              totalTime -= adjustment; // Subtract the adjusted time
             }
-          } else {
-            // If match duration exceeds 15 minutes
-            const exceededTime = matchTime - 900;
-            const fraction = exceededTime / 60; // Convert exceeded time to minutes
-            const adjustment = fraction * 0.1;
-            totalTime -= adjustment; // Subtract the adjusted time
           }
         }
 

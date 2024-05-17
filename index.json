@@ -1,9 +1,6 @@
 [
     {
         "Team": "Santosh & Sneha",
-        "Matches Played": 4,
-        "Won": 4,
-        "Lost": 0,
         "NCR": [
             {
                 "minutes": 6,
@@ -27,9 +24,6 @@
     },
     {
         "Team": "John & Elvin",
-        "Matches Played": 3,
-        "Won": 0,
-        "Lost": 3,
         "NCR": [
             {
                 "minutes": 4,
@@ -45,12 +39,10 @@
             }
         ],
         "GameSequence": "LLL",
-        "Name": "Gamma Watt"    },
+        "Name": "Gamma Watt"
+    },
     {
         "Team": "Yunus & Shubham",
-        "Matches Played": 3,
-        "Won": 2,
-        "Lost": 1,
         "NCR": [
             {
                 "minutes": 6,
@@ -66,12 +58,10 @@
             }
         ],
         "GameSequence": "LWW",
-        "Name": "Carrom Warriors"    },
+        "Name": "Carrom Warriors"
+    },
     {
         "Team": "Arun & Shalini",
-        "Matches Played": 3,
-        "Won": 0,
-        "Lost": 3,
         "NCR": [
             {
                 "minutes": 4,
@@ -87,12 +77,10 @@
             }
         ],
         "GameSequence": "LLL",
-        "Name": "Xd-Strange"    },
+        "Name": "Xd-Strange"
+    },
     {
         "Team": "Siddik & Goutham",
-        "Matches Played": 3,
-        "Won": 2,
-        "Lost": 1,
         "NCR": [
             {
                 "minutes": 4,
@@ -108,12 +96,10 @@
             }
         ],
         "GameSequence": "WWL",
-        "Name": "Due Diligence"    },
+        "Name": "Due Diligence"
+    },
     {
         "Team": "Kavitha & Dharani",
-        "Matches Played": 1,
-        "Won": 0,
-        "Lost": 1,
         "NCR": [
             {
                 "minutes": 2,
@@ -121,12 +107,10 @@
             }
         ],
         "GameSequence": "L",
-        "Name": "Carrom Conquerors"    },
+        "Name": "Carrom Conquerors"
+    },
     {
         "Team": "Vishwa & Punith",
-        "Matches Played": 4,
-        "Won": 1,
-        "Lost": 3,
         "NCR": [
             {
                 "minutes": 7,
@@ -146,12 +130,10 @@
             }
         ],
         "GameSequence": "WLLL",
-        "Name": "Board Bashers"    },
+        "Name": "Board Bashers"
+    },
     {
         "Team": "Ankitha & Sachin",
-        "Matches Played": 2,
-        "Won": 2,
-        "Lost": 0,
         "NCR": [
             {
                 "minutes": 2,
@@ -163,12 +145,10 @@
             }
         ],
         "GameSequence": "WW",
-        "Name": "Royal Rovers"    },
+        "Name": "Royal Rovers"
+    },
     {
         "Team": "Likitha & Likhito",
-        "Matches Played": 3,
-        "Won": 1,
-        "Lost": 2,
         "NCR": [
             {
                 "minutes": 5,
@@ -184,12 +164,10 @@
             }
         ],
         "GameSequence": "LWL",
-        "Name": "Balanced Dynamo"    },
+        "Name": "Balanced Dynamo"
+    },
     {
         "Team": "Arun & Vanavarayan",
-        "Matches Played": 2,
-        "Won": 2,
-        "Lost": 0,
         "NCR": [
             {
                 "minutes": 5,
