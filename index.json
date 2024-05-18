@@ -6,23 +6,28 @@
     "NCR": [
       {
         "minutes": 8,
-        "sec": 36
+        "sec": 36,
+        "played_against": "Yunus & Shubham"
       },
       {
         "minutes": 4,
-        "sec": 45
+        "sec": 45,
+        "played_against": "John & Elvin"
       },
       {
         "minutes": 18,
-        "sec": 13
+        "sec": 13,
+        "played_against": "Vishwa & Punith"
       },
       {
         "minutes": 7,
-        "sec": 38
+        "sec": 38,
+        "played_against": "Likitha & Likhito"
       },
       {
         "minutes": 5,
-        "sec": 27
+        "sec": 27,
+        "played_against": "Arun Acharya & Vanavarayan"
       }
     ],
     "GameSequence": "WWWWW",
@@ -35,15 +40,18 @@
     "NCR": [
       {
         "minutes": 10,
-        "sec": 44
+        "sec": 44,
+        "played_against": "Siddik & Goutham"
       },
       {
         "minutes": 4,
-        "sec": 45
+        "sec": 45,
+        "played_against": "Santosh & Sneha"
       },
       {
         "minutes": 19,
-        "sec": 10
+        "sec": 10,
+        "played_against": "Likitha & Likhito"
       }
     ],
     "GameSequence": "LLL",
@@ -56,15 +64,18 @@
     "NCR": [
       {
         "minutes": 8,
-        "sec": 36
+        "sec": 36,
+        "played_against": "Santosh & Sneha"
       },
       {
         "minutes": 12,
-        "sec": 52
+        "sec": 52,
+        "played_against": "Siddik & Goutham"
       },
       {
         "minutes": 5,
-        "sec": 19
+        "sec": 19,
+        "played_against": "Vishwa & Punith"
       }
     ],
     "GameSequence": "LWW",
@@ -77,15 +88,18 @@
     "NCR": [
       {
         "minutes": 11,
-        "sec": 0
+        "sec": 0,
+        "played_against": "Siddik & Goutham"
       },
       {
         "minutes": 7,
-        "sec": 55
+        "sec": 55,
+        "played_against": "Vishwa & Punith"
       },
       {
         "minutes": 8,
-        "sec": 39
+        "sec": 39,
+        "played_against": "Ankitha & Sachin"
       }
     ],
     "GameSequence": "LLL",
@@ -98,15 +112,18 @@
     "NCR": [
       {
         "minutes": 11,
-        "sec": 0
+        "sec": 0,
+        "played_against": "Arun & Shalini"
       },
       {
         "minutes": 10,
-        "sec": 44
+        "sec": 44,
+        "played_against": "John & Elvin"
       },
       {
         "minutes": 12,
-        "sec": 52
+        "sec": 52,
+        "played_against": "Yunus & Shubham"
       }
     ],
     "GameSequence": "WWL",
@@ -119,7 +136,8 @@
     "NCR": [
       {
         "minutes": 12,
-        "sec": 33
+        "sec": 33,
+        "played_against": "Ankitha & Sachin"
       }
     ],
     "GameSequence": "L",
@@ -132,19 +150,23 @@
     "NCR": [
       {
         "minutes": 7,
-        "sec": 55
+        "sec": 55,
+        "played_against": "Arun & Shalini"
       },
       {
         "minutes": 18,
-        "sec": 13
+        "sec": 13,
+        "played_against": "Santosh & Sneha"
       },
       {
         "minutes": 12,
-        "sec": 56
+        "sec": 56,
+        "played_against": "Arun Acharya & Vanavarayan"
       },
       {
         "minutes": 5,
-        "sec": 19
+        "sec": 19,
+        "played_against": "Yunus & Shubham"
       }
     ],
     "GameSequence": "WLLL",
@@ -157,11 +179,13 @@
     "NCR": [
       {
         "minutes": 12,
-        "sec": 33
+        "sec": 33,
+        "played_against": "Kavitha & Dharani"
       },
       {
         "minutes": 8,
-        "sec": 39
+        "sec": 39,
+        "played_against": "Arun & Shalini"
       }
     ],
     "GameSequence": "WW",
@@ -174,36 +198,42 @@
     "NCR": [
       {
         "minutes": 9,
-        "sec": 47
+        "sec": 47,
+        "played_against": "Arun Acharya & Vanavarayan"
       },
       {
         "minutes": 19,
-        "sec": 10
+        "sec": 10,
+        "played_against": "John & Elvin"
       },
       {
         "minutes": 7,
-        "sec": 38
+        "sec": 38,
+        "played_against": "Santosh & Sneha"
       }
     ],
     "GameSequence": "LWL",
     "Name": "Balanced Dynamo"
   },
   {
-    "Team": "Arun & Vanavarayan",
+    "Team": "Arun Acharya & Vanavarayan",
     "Player_1": "https://www.navadhiti.com/static/131d799ba774f5500416cb9782911844/d4050/aa.webp",
     "Player_2": "https://www.navadhiti.com/static/efa56c6df51bf5e743429639b2f78606/73bad/vanu.webp",
     "NCR": [
       {
         "minutes": 9,
-        "sec": 47
+        "sec": 47,
+        "played_against": "Likitha & Likhito"
       },
       {
         "minutes": 12,
-        "sec": 56
+        "sec": 56,
+        "played_against": "Vishwa & Punith"
       },
       {
         "minutes": 5,
-        "sec": 27
+        "sec": 27,
+        "played_against": "Santosh & Sneha"
       }
     ],
     "GameSequence": "WWL",
