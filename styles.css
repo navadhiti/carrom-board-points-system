@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    height: 100%;
+    position: absolute;
+    top: -2%;
+    z-index: -1;
+    transform: rotate(-49deg);
+    left: 5.1%;
+    opacity: 0.3;
+  }
+  h2 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+  }
+  table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    z-index: 999;
+  }
+  th,
+  td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 12px;
+  }
+  th {
+    background-color: #becf1f;
+    color: white;
+  }
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  tr:hover {
+    background-color: #ddd;
+  }
+  .button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+  }
+  .circle.red {
+    background-color: red;
+  }
+  .circle.green {
+    background-color: green;
+  }
