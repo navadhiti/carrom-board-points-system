@@ -96,7 +96,7 @@
           <th>L</th>
           <th>PTS</th>
           <th>NCR</th>
-          <th>Game Sequence</th>
+          <th>Last 5 Matches</th>
         </tr>
       </thead>
       <tbody></tbody>
@@ -151,11 +151,11 @@
 
       async function populateTable() {
         const data = await fetchData();
-        var table = document
+        const table = document
           .getElementById("points-table")
           .getElementsByTagName("tbody")[0];
-        for (var i = 0; i < data.length; i++) {
-          var newRow = table.insertRow();
+        for (let i = 0; i < data.length; i++) {
+          let newRow = table.insertRow();
           newRow.insertCell().innerHTML = i + 1;
           newRow.insertCell().innerHTML = data[i]["Name"];
           newRow.insertCell().innerHTML = data[i]["Team"];
@@ -169,9 +169,10 @@
             data[i]["NCR"]
           );
 
-          var gameSequenceCell = newRow.insertCell();
-          for (var j = 0; j < data[i]["GameSequence"].length; j++) {
-            var circle = document.createElement("div");
+          const gameSequenceCell = newRow.insertCell();
+          const start = Math.max(0, data[i]["GameSequence"].length - 5); // Start from the last 5 elements
+          for (let j = start; j < data[i]["GameSequence"].length; j++) {
+            const circle = document.createElement("div");
             circle.classList.add("circle");
             circle.textContent = data[i]["GameSequence"][j];
             if (data[i]["GameSequence"][j] === "W") {
