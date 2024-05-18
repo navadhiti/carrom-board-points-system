@@ -5,12 +5,12 @@
     "Player_2": "https://www.navadhiti.com/static/d3a14c89738560216f7e981a93b11a97/70d05/snehad.webp",
     "NCR": [
       {
-        "minutes": 6,
-        "sec": 24
+        "minutes": 8,
+        "sec": 36
       },
       {
-        "minutes": 10,
-        "sec": 15
+        "minutes": 4,
+        "sec": 45
       },
       {
         "minutes": 18,
@@ -19,9 +19,13 @@
       {
         "minutes": 7,
         "sec": 38
+      },
+      {
+        "minutes": 5,
+        "sec": 27
       }
     ],
-    "GameSequence": "WWWW",
+    "GameSequence": "WWWWW",
     "Name": "Strike Surgeons"
   },
   {
@@ -30,12 +34,12 @@
     "Player_2": "https://www.navadhiti.com/static/93468ab8d5a7376d361b1caa301fda49/d4050/Elvin.webp",
     "NCR": [
       {
-        "minutes": 4,
-        "sec": 16
+        "minutes": 10,
+        "sec": 44
       },
       {
-        "minutes": 10,
-        "sec": 15
+        "minutes": 4,
+        "sec": 45
       },
       {
         "minutes": 19,
@@ -51,12 +55,12 @@
     "Player_2": "https://www.navadhiti.com/static/47c519753ea79561c16719cc5c4ca0df/441a5/shubham_wasnik.webp",
     "NCR": [
       {
-        "minutes": 6,
-        "sec": 24
+        "minutes": 8,
+        "sec": 36
       },
       {
-        "minutes": 2,
-        "sec": 8
+        "minutes": 12,
+        "sec": 52
       },
       {
         "minutes": 5,
@@ -72,12 +76,12 @@
     "Player_2": "https://www.navadhiti.com/static/c61c1be872b4c4b0e1ca26b09241eacf/b55e7/shalini1.webp",
     "NCR": [
       {
-        "minutes": 4,
+        "minutes": 11,
         "sec": 0
       },
       {
         "minutes": 7,
-        "sec": 5
+        "sec": 55
       },
       {
         "minutes": 8,
@@ -93,16 +97,16 @@
     "Player_2": "https://www.navadhiti.com/static/f27013c911df2e112241b673b100d6c0/b55e7/Goutham_B.webp",
     "NCR": [
       {
-        "minutes": 4,
+        "minutes": 11,
         "sec": 0
       },
       {
-        "minutes": 4,
-        "sec": 16
+        "minutes": 10,
+        "sec": 44
       },
       {
-        "minutes": 2,
-        "sec": 8
+        "minutes": 12,
+        "sec": 52
       }
     ],
     "GameSequence": "WWL",
@@ -114,8 +118,8 @@
     "Player_2": "https://www.navadhiti.com/static/4dd91a7820219de9ed18760d7b499a3a/b55e7/dharani.webp",
     "NCR": [
       {
-        "minutes": 2,
-        "sec": 27
+        "minutes": 12,
+        "sec": 33
       }
     ],
     "GameSequence": "L",
@@ -128,15 +132,15 @@
     "NCR": [
       {
         "minutes": 7,
-        "sec": 5
+        "sec": 55
       },
       {
         "minutes": 18,
         "sec": 13
       },
       {
-        "minutes": 2,
-        "sec": 4
+        "minutes": 12,
+        "sec": 56
       },
       {
         "minutes": 5,
@@ -152,8 +156,8 @@
     "Player_2": "https://www.navadhiti.com/static/90f37befa6bb5e9b93419ef48ca72609/096e0/sachinragul.webp",
     "NCR": [
       {
-        "minutes": 2,
-        "sec": 27
+        "minutes": 12,
+        "sec": 33
       },
       {
         "minutes": 8,
@@ -169,8 +173,8 @@
     "Player_2": "https://www.navadhiti.com/static/ead635917112e5cd75a3f7dfc263c2e0/3a852/K%20Likhit%20Kumar.webp",
     "NCR": [
       {
-        "minutes": 5,
-        "sec": 13
+        "minutes": 9,
+        "sec": 47
       },
       {
         "minutes": 19,
@@ -190,15 +194,19 @@
     "Player_2": "https://www.navadhiti.com/static/efa56c6df51bf5e743429639b2f78606/73bad/vanu.webp",
     "NCR": [
       {
-        "minutes": 5,
-        "sec": 13
+        "minutes": 9,
+        "sec": 47
       },
       {
-        "minutes": 2,
-        "sec": 4
+        "minutes": 12,
+        "sec": 56
+      },
+      {
+        "minutes": 5,
+        "sec": 27
       }
     ],
-    "GameSequence": "WW",
+    "GameSequence": "WWL",
     "Name": "Pocket Panthers"
   }
 ]
