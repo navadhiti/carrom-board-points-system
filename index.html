@@ -59,6 +59,24 @@
         border-radius: 5px;
         cursor: pointer;
       }
+      .circle {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 5px;
+        color: white;
+        font-weight: bold;
+        font-size: 12px;
+      }
+      .circle.red {
+        background-color: red;
+      }
+      .circle.green {
+        background-color: green;
+      }
     </style>
   </head>
   <body>
@@ -73,10 +91,10 @@
           <th>Team</th>
           <th>Players</th>
           <th>Squads</th>
-          <th>Matches Played</th>
-          <th>Won</th>
-          <th>Lost</th>
-          <th>Points</th>
+          <th>P</th>
+          <th>W</th>
+          <th>L</th>
+          <th>PTS</th>
           <th>NCR</th>
           <th>Game Sequence</th>
         </tr>
@@ -150,7 +168,19 @@
             data[i]["GameSequence"],
             data[i]["NCR"]
           );
-          newRow.insertCell().innerHTML = data[i]["GameSequence"];
+
+          var gameSequenceCell = newRow.insertCell();
+          for (var j = 0; j < data[i]["GameSequence"].length; j++) {
+            var circle = document.createElement("div");
+            circle.classList.add("circle");
+            circle.textContent = data[i]["GameSequence"][j];
+            if (data[i]["GameSequence"][j] === "W") {
+              circle.classList.add("green");
+            } else {
+              circle.classList.add("red");
+            }
+            gameSequenceCell.appendChild(circle);
+          }
         }
       }
 
