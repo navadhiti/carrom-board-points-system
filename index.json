@@ -238,5 +238,13 @@
     ],
     "GameSequence": "WWL",
     "Name": "Pocket Panthers"
+  },
+  {
+    "Team": "Vasee & Jagadish",
+    "Player_1": "https://navadhiti.com/static/24347c6b05a40b5989b343c2cd27d88e/fbed4/Vasee%20Ahmed.webp",
+    "Player_2": "https://navadhiti.com/static/2b76ef34852d32c2444dc10d525a3cce/7c25d/Jagadish.webp",
+    "NCR": [],
+    "GameSequence": "",
+    "Name": "Double Trouble"
   }
 ]
