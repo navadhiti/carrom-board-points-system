@@ -28,9 +28,14 @@
         "minutes": 5,
         "sec": 27,
         "played_against": "Arun Acharya & Vanavarayan"
+      },
+      {
+        "minutes": 5,
+        "sec": 39,
+        "played_against": "Vasee & Jagadish"
       }
     ],
-    "GameSequence": "WWWWW",
+    "GameSequence": "WWWWWW",
     "Name": "Strike Surgeons"
   },
   {
@@ -100,9 +105,19 @@
         "minutes": 8,
         "sec": 39,
         "played_against": "Ankitha & Sachin"
+      },
+      {
+        "minutes": 8,
+        "sec": 14,
+        "played_against": "Vasee & Jagadish"
+      },
+      {
+        "minutes": 13,
+        "sec": 26,
+        "played_against": "Arun Acharya & Vanavarayan"
       }
     ],
-    "GameSequence": "LLL",
+    "GameSequence": "LLLLL",
     "Name": "Xd-Strange"
   },
   {
@@ -138,9 +153,19 @@
         "minutes": 12,
         "sec": 33,
         "played_against": "Ankitha & Sachin"
+      },
+      {
+        "minutes": 11,
+        "sec": 26,
+        "played_against": "Arun Acharya & Vanavarayan"
+      },
+      {
+        "minutes": 8,
+        "sec": 13,
+        "played_against": "Vasee & Jagadish"
       }
     ],
-    "GameSequence": "L",
+    "GameSequence": "LLL",
     "Name": "Carrom Conquerors"
   },
   {
@@ -167,9 +192,14 @@
         "minutes": 5,
         "sec": 19,
         "played_against": "Yunus & Shubham"
+      },
+      {
+        "minutes": 15,
+        "sec": 23,
+        "played_against": "Likitha & Likhito"
       }
     ],
-    "GameSequence": "WLLL",
+    "GameSequence": "WLLLL",
     "Name": "Board Bashers"
   },
   {
@@ -210,9 +240,14 @@
         "minutes": 7,
         "sec": 38,
         "played_against": "Santosh & Sneha"
+      },
+      {
+        "minutes": 15,
+        "sec": 23,
+        "played_against": "Vishwa & Punith"
       }
     ],
-    "GameSequence": "LWL",
+    "GameSequence": "LWLW",
     "Name": "Balanced Dynamo"
   },
   {
@@ -234,17 +269,53 @@
         "minutes": 5,
         "sec": 27,
         "played_against": "Santosh & Sneha"
+      },
+      {
+        "minutes": 4,
+        "sec": 36,
+        "played_against": "Vasee & Jagadish"
+      },
+      {
+        "minutes": 11,
+        "sec": 26,
+        "played_against": "Kavitha & Dharani"
+      },
+      {
+        "minutes": 13,
+        "sec": 26,
+        "played_against": "Arun & Shalini"
       }
     ],
-    "GameSequence": "WWL",
+    "GameSequence": "WWLWWW",
     "Name": "Pocket Panthers"
   },
   {
     "Team": "Vasee & Jagadish",
     "Player_1": "https://navadhiti.com/static/24347c6b05a40b5989b343c2cd27d88e/fbed4/Vasee%20Ahmed.webp",
     "Player_2": "https://navadhiti.com/static/2b76ef34852d32c2444dc10d525a3cce/7c25d/Jagadish.webp",
-    "NCR": [],
-    "GameSequence": "",
+    "NCR": [
+      {
+        "minutes": 4,
+        "sec": 36,
+        "played_against": "Arun Acharya & Vanavarayan"
+      },
+      {
+        "minutes": 8,
+        "sec": 14,
+        "played_against": "Arun & Shalini"
+      },
+      {
+        "minutes": 8,
+        "sec": 13,
+        "played_against": "Kavitha & Dharani"
+      },
+      {
+        "minutes": 5,
+        "sec": 39,
+        "played_against": "Santosh & Sneha"
+      }
+    ],
+    "GameSequence": "LWWL",
     "Name": "Double Trouble"
   }
 ]
