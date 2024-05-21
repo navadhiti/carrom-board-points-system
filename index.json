@@ -81,9 +81,19 @@
         "minutes": 5,
         "sec": 19,
         "played_against": "Vishwa & Punith"
+      },
+      {
+        "minutes": 13,
+        "sec": 8,
+        "played_against": "Likitha & Likhito"
+      },
+      {
+        "minutes": 10,
+        "sec": 26,
+        "played_against": "Thejaswini & Someshwar"
       }
     ],
-    "GameSequence": "LWW",
+    "GameSequence": "LWWWW",
     "Name": "Carrom Warriors"
   },
   {
@@ -163,9 +173,19 @@
         "minutes": 8,
         "sec": 13,
         "played_against": "Vasee & Jagadish"
+      },
+      {
+        "minutes": 20,
+        "sec": 50,
+        "played_against": "Vishwa & Punith"
+      },
+      {
+        "minutes": 12,
+        "sec": 50,
+        "played_against": "Likitha & Likhito"
       }
     ],
-    "GameSequence": "LLL",
+    "GameSequence": "LLLLL",
     "Name": "Carrom Conquerors"
   },
   {
@@ -197,9 +217,19 @@
         "minutes": 15,
         "sec": 23,
         "played_against": "Likitha & Likhito"
+      },
+      {
+        "minutes": 20,
+        "sec": 50,
+        "played_against": "Kavitha & Dharani"
+      },
+      {
+        "minutes": 4,
+        "sec": 28,
+        "played_against": "Vasee & Jagadish"
       }
     ],
-    "GameSequence": "WLLLL",
+    "GameSequence": "WLLLLWL",
     "Name": "Board Bashers"
   },
   {
@@ -245,9 +275,19 @@
         "minutes": 15,
         "sec": 23,
         "played_against": "Vishwa & Punith"
+      },
+      {
+        "minutes": 13,
+        "sec": 8,
+        "played_against": "Yunus & Shubham"
+      },
+      {
+        "minutes": 12,
+        "sec": 50,
+        "played_against": "Kavitha & Dharani"
       }
     ],
-    "GameSequence": "LWLW",
+    "GameSequence": "LWLWLW",
     "Name": "Balanced Dynamo"
   },
   {
@@ -313,17 +353,38 @@
         "minutes": 5,
         "sec": 39,
         "played_against": "Santosh & Sneha"
+      },
+      {
+        "minutes": 4,
+        "sec": 28,
+        "played_against": "Vishwa & Punith"
+      },
+      {
+        "minutes": 3,
+        "sec": 30,
+        "played_against": "Thejaswini & Someshwar"
       }
     ],
-    "GameSequence": "LWWL",
+    "GameSequence": "LWWLW",
     "Name": "Double Trouble"
   },
   {
     "Team": "Thejaswini & Someshwar",
     "Player_1": "https://navadhiti.com/static/b97c3fdc27a04da300cacef24f457736/33416/ty.webp",
     "Player_2": "https://navadhiti.com/static/a9341fbff8f500d73fdc76c3f045a917/8e510/Someswar.webp",
-    "NCR": [],
-    "GameSequence": "",
+    "NCR": [
+       {
+        "minutes": 3,
+        "sec": 30,
+        "played_against": "Vasee & Jagadish"
+        },
+       {
+        "minutes": 10,
+        "sec": 26,
+        "played_against": "Yunus & Shubham"
+       }
+     ],
+    "GameSequence": "LL",
     "Name": "Coin snatchers"
   }
 ]
