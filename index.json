@@ -317,5 +317,13 @@
     ],
     "GameSequence": "LWWL",
     "Name": "Double Trouble"
+  },
+  {
+    "Team": "Thejaswini & Someshwar",
+    "Player_1": "https://navadhiti.com/static/b97c3fdc27a04da300cacef24f457736/33416/ty.webp",
+    "Player_2": "https://navadhiti.com/static/a9341fbff8f500d73fdc76c3f045a917/8e510/Someswar.webp",
+    "NCR": [],
+    "GameSequence": "",
+    "Name": "Coin snatchers"
   }
 ]
