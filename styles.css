@@ -84,3 +84,44 @@ tr:hover {
 tr {
   white-space: nowrap;
 }
+
+.header {
+  background-image: url('/about_banner.webp'); 
+  background-size: cover;
+  background-position: center;
+  padding: 0.625rem;
+  height: 20rem;
+} */
+
+.ndLogo {
+  margin-top: 20rem;
+}
+
+.trophy {
+  margin: 8rem 0rem 0rem 42rem; 
+  padding-left: 0.5rem;
+  font-size: 2.5rem;
+  display: flex;
+  align-items: center;
+  font-weight: bolder;
+  background-color: #f1f2e6;;
+  width: 38rem;
+  border-radius: 0.75rem;
+}
+
+@media only screen and (width: 1024px) {
+  .trophy {
+    margin: 8rem 0rem 0rem 12rem; 
+  }
+}
+@media only screen and (width: 1440px) {
+  .trophy {
+    margin: 8rem 0rem 0rem 25rem; 
+  }
+}
+
+@media only screen and (width: 2560px) {
+  .trophy {
+    margin: 8rem 0rem 0rem 65rem; 
+  }
+}
