@@ -291,9 +291,19 @@
         "minutes": 14,
         "sec": 11,
         "played_against": "Yunus & Shubham"
+      },
+      {
+        "minutes": 7,
+        "sec": 39,
+        "played_against": "Thejaswini & Someshwar"
+      },
+      {
+        "minutes": 11,
+        "sec": 2,
+        "played_against": "Vasee & Jagadish"
       }
     ],
-    "GameSequence": "WWLL",
+    "GameSequence": "WWLLWW",
     "Name": "Royal Rovers"
   },
   {
@@ -340,9 +350,19 @@
         "minutes": 8,
         "sec": 3,
         "played_against": "Siddik & Goutham"
+      },
+      {
+        "minutes": 14,
+        "sec": 20,
+        "played_against": "Thejaswini & Someshwar"
+      },
+      {
+        "minutes": 10,
+        "sec": 56,
+        "played_against": "Vasee & Jagadish"
       }
     ],
-    "GameSequence": "LWLWLWWW",
+    "GameSequence": "LWLWLWWWWW",
     "Name": "Balanced Dynamo"
   },
   {
@@ -423,9 +443,19 @@
         "minutes": 10,
         "sec": 20,
         "played_against": "Yunus & Shubham"
+      },
+      {
+        "minutes": 11,
+        "sec": 2,
+        "played_against": "Ankitha & Sachin"
+      },
+      {
+        "minutes": 10,
+        "sec": 56,
+        "played_against": "Likitha & Likhito"
       }
     ],
-    "GameSequence": "LWWLWWW",
+    "GameSequence": "LWWLWWWLL",
     "Name": "Double Trouble"
   },
   {
@@ -452,9 +482,19 @@
         "minutes": 8,
         "sec": 24,
         "played_against": "Vishwa & Punith"
+      },
+      {
+        "minutes": 7,
+        "sec": 39,
+        "played_against": "Ankitha & Sachin"
+      },
+      {
+        "minutes": 14,
+        "sec": 20,
+        "played_against": "Likitha & Likhito"
       }
     ],
-    "GameSequence": "LLWL",
+    "GameSequence": "LLWLLL",
     "Name": "Coin snatchers"
   }
 ]
