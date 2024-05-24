@@ -104,6 +104,7 @@ tr {
   background-color: red;
 }
 
+/* Base styles for modal */
 .modal {
   display: none;
   position: fixed;
@@ -111,8 +112,6 @@ tr {
   top: 0;
   width: 100%;
   height: 100%;
-  overflow: auto;
-  background-color: rgb(0, 0, 0);
   background-color: rgba(0, 0, 0, 0.4);
 }
 
@@ -137,4 +136,29 @@ tr {
   color: black;
   text-decoration: none;
   cursor: pointer;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+  .modal-content {
+    width: 70%;
+  }
+}
+
+@media (max-width: 1024px) {
+  .modal-content {
+    width: 70%;
+  }
+}
+
+@media (max-width: 480px) {
+  .modal-content {
+    width: 90%;
+    margin: 20% auto;
+    padding: 15px;
+  }
+
+  .close {
+    font-size: 24px;
+  }
 }
