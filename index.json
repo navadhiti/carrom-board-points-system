@@ -101,9 +101,14 @@
         "minutes": 10,
         "sec": 20,
         "played_against": "Vasee & Jagadish"
+      },
+      {
+        "minutes": 5,
+        "sec": 51,
+        "played_against": "Arun Acharya & Vanavarayan"
       }
     ],
-    "GameSequence": "LWWWWWL",
+    "GameSequence": "LWWWWWLW",
     "Name": "Carrom Warriors"
   },
   {
@@ -262,9 +267,14 @@
         "minutes": 8,
         "sec": 24,
         "played_against": "Thejaswini & Someshwar"
+      },
+      {
+        "minutes": 4,
+        "sec": 56,
+        "played_against": "Ankitha & Sachin"
       }
     ],
-    "GameSequence": "WLLLLWLLW",
+    "GameSequence": "WLLLLWLLWW",
     "Name": "Board Bashers"
   },
   {
@@ -301,9 +311,19 @@
         "minutes": 11,
         "sec": 2,
         "played_against": "Vasee & Jagadish"
+      },
+      {
+        "minutes": 4,
+        "sec": 56,
+        "played_against": "Vishwa & Punith"
+      },
+      {
+        "minutes": 10,
+        "sec": 36,
+        "played_against": "Arun Acharya & Vanavarayan"
       }
     ],
-    "GameSequence": "WWLLWW",
+    "GameSequence": "WWLLWWLW",
     "Name": "Royal Rovers"
   },
   {
@@ -399,9 +419,24 @@
         "minutes": 13,
         "sec": 26,
         "played_against": "Arun & Shalini"
+      },
+      {
+        "minutes": 5,
+        "sec": 51,
+        "played_against": "Yunus & Shubham"
+      },
+      {
+        "minutes": 10,
+        "sec": 36,
+        "played_against": "Ankitha & Sachin"
+      },
+      {
+        "minutes": 12,
+        "sec": 44,
+        "played_against": "Thejaswini & Someshwar"
       }
     ],
-    "GameSequence": "WWLWWW",
+    "GameSequence": "WWLWWWLLL",
     "Name": "Pocket Panthers"
   },
   {
@@ -492,9 +527,14 @@
         "minutes": 14,
         "sec": 20,
         "played_against": "Likitha & Likhito"
+      },
+      {
+        "minutes": 12,
+        "sec": 44,
+        "played_against": "Arun Acharya & Vanavarayan"
       }
     ],
-    "GameSequence": "LLWLLL",
+    "GameSequence": "LLWLLLW",
     "Name": "Coin snatchers"
   }
 ]
