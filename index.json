@@ -33,9 +33,19 @@
         "minutes": 5,
         "sec": 39,
         "played_against": "Vasee & Jagadish"
+      },
+      {
+        "minutes": 11,
+        "sec": 22,
+        "played_against": "Thejaswini & Someshwar"
+      },
+      {
+        "minutes": 14,
+        "sec": 48,
+        "played_against": "Ankitha & Sachin"
       }
     ],
-    "GameSequence": "WWWWWW",
+    "GameSequence": "WWWWWWWL",
     "Name": "Strike Surgeons"
   },
   {
@@ -57,9 +67,29 @@
         "minutes": 19,
         "sec": 10,
         "played_against": "Likitha & Likhito"
+      },
+      {
+        "minutes": 7,
+        "sec": 55,
+        "played_against": "Ankitha & Sachin"
+      },
+      {
+        "minutes": 14,
+        "sec": 18,
+        "played_against": "Vishwa & Punith"
+      },
+      {
+        "minutes": 8,
+        "sec": 40,
+        "played_against": "Yunus & Shubham"
+      },
+      {
+        "minutes": 9,
+        "sec": 11,
+        "played_against": "Thejaswini & Someshwar"
       }
     ],
-    "GameSequence": "LLL",
+    "GameSequence": "LLLLWWL",
     "Name": "Gamma Watt"
   },
   {
@@ -106,9 +136,14 @@
         "minutes": 5,
         "sec": 51,
         "played_against": "Arun Acharya & Vanavarayan"
+      },
+      {
+        "minutes": 8,
+        "sec": 40,
+        "played_against": "John & Elvin"
       }
     ],
-    "GameSequence": "LWWWWWLW",
+    "GameSequence": "LWWWWWLWL",
     "Name": "Carrom Warriors"
   },
   {
@@ -272,9 +307,14 @@
         "minutes": 4,
         "sec": 56,
         "played_against": "Ankitha & Sachin"
+      },
+      {
+        "minutes": 14,
+        "sec": 18,
+        "played_against": "John & Elvin"
       }
     ],
-    "GameSequence": "WLLLLWLLWW",
+    "GameSequence": "WLLLLWLLWWL",
     "Name": "Board Bashers"
   },
   {
@@ -321,9 +361,19 @@
         "minutes": 10,
         "sec": 36,
         "played_against": "Arun Acharya & Vanavarayan"
+      },
+      {
+        "minutes": 7,
+        "sec": 55,
+        "played_against": "John & Elvin"
+      },
+      {
+        "minutes": 14,
+        "sec": 48,
+        "played_against": "Santosh & Sneha"
       }
     ],
-    "GameSequence": "WWLLWWLW",
+    "GameSequence": "WWLLWWLWWW",
     "Name": "Royal Rovers"
   },
   {
@@ -532,9 +582,19 @@
         "minutes": 12,
         "sec": 44,
         "played_against": "Arun Acharya & Vanavarayan"
+      },
+      {
+        "minutes": 11,
+        "sec": 22,
+        "played_against": "Santosh & Sneha"
+      },
+      {
+        "minutes": 9,
+        "sec": 11,
+        "played_against": "John & Elvin"
       }
     ],
-    "GameSequence": "LLWLLLW",
+    "GameSequence": "LLWLLLWLW",
     "Name": "Coin snatchers"
   }
 ]
