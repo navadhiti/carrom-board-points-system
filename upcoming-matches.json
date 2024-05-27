@@ -1,0 +1,149 @@
+[
+    {
+        "Santosh & Sneha": [
+            {
+                "date": "2024-05-28",
+                "team1": "Santosh & Sneha",
+                "team2": "Arun & Shalini"
+            },
+            {
+                "date": "2024-05-28",
+                "team1": "Santosh & Sneha",
+                "team2": "Kavitha & Dharani"
+            },
+            {
+                "date": "2024-05-28",
+                "team1": "Santosh & Sneha",
+                "team2": "Siddik & Goutham"
+            },
+            {
+                "date": "2024-05-27",
+                "team1": "Santosh & Sneha",
+                "team2": "Thejaswini & Someshwar"
+            },
+            {
+                "date": "2024-05-27",
+                "team1": "Santosh & Sneha",
+                "team2": "Ankitha & Sachin"
+            }
+        ],
+        "John & Elvin": [
+            {
+                "date": "2024-05-28",
+                "team1": "John & Elvin",
+                "team2": "Kavitha & Dharani"
+            },
+            {
+                "date": "2024-05-27",
+                "team1": "John & Elvin",
+                "team2": "Vishwa & Punith"
+            },
+            {
+                "date": "2024-05-27",
+                "team1": "John & Elvin",
+                "team2": "Yunus & Shubham"
+            },
+            {
+                "date": "2024-05-27",
+                "team1": "John & Elvin",
+                "team2": "Thejaswini & Someshwar"
+            },
+            {
+                "date": "2024-05-27",
+                "team1": "John & Elvin",
+                "team2": "Ankitha & Sachin"
+            }
+        ],
+        "Yunus & Shubham": [
+            {
+                "date": "2024-05-28",
+                "team1": "Yunus & Shubham",
+                "team2": "Arun & Shalini"
+            }
+        ],
+        "Arun & Shalini": [
+            {
+                "date": "2024-05-28",
+                "team1": "Arun & Shalini",
+                "team2": "John & Elvin"
+            },
+            {
+                "date": "2024-05-29",
+                "team1": "Arun & Shalini",
+                "team2": "Santosh & Sneha"
+            },
+            {
+                "date": "2024-05-28",
+                "team1": "Arun & Shalini",
+                "team2": "Likitha & Likhito"
+            },
+            {
+                "date": "2024-05-29",
+                "team1": "Arun & Shalini",
+                "team2": "Thejaswini & Someshwar"
+            }
+        ],
+        "Siddik & Goutham": [
+            {
+                "date": "2024-05-28",
+                "team1": "Siddik & Goutham",
+                "team2": "Santosh & Sneha"
+            },
+            {
+                "date": "2024-05-28",
+                "team1": "Siddik & Goutham",
+                "team2": "Kavitha & Dharani"
+            }
+        ],
+        "Kavitha & Dharani": [
+            {
+                "date": "2024-05-28",
+                "team1": "Kavitha & Dharani",
+                "team2": "Yunus & Shubham"
+            },
+            {
+                "date": "2024-05-29",
+                "team1": "Kavitha & Dharani",
+                "team2": "Arun & Shalini"
+            }
+        ],
+        "Ankitha & Sachin": [
+            {
+                "date": "2024-05-29",
+                "team1": "Ankitha & Sachin",
+                "team2": "Siddik & Goutham"
+            }
+        ],
+        "Arun Acharya & Vanavarayan": [
+            {
+                "date": "2024-05-28",
+                "team1": "Arun Acharya & Vanavarayan",
+                "team2": "John & Elvin"
+            },
+            {
+                "date": "2024-05-29",
+                "team1": "Arun Acharya & Vanavarayan",
+                "team2": "Siddik & Goutham"
+            }
+        ],
+        "Vasee & Jagadish": [
+            {
+                "date": "2024-05-28",
+                "team1": "Vasee & Jagadish",
+                "team2": "John & Elvin"
+            },
+            {
+                "date": "2024-05-29",
+                "team1": "Vasee & Jagadish",
+                "team2": "Siddik & Goutham"
+            }
+        ],
+        "Thejaswini & Someshwar": [
+            {
+                "date": "2024-05-28",
+                "team1": "Thejaswini & Someshwar",
+                "team2": "Kavitha & Dharani"
+            }
+        ]
+    }
+]

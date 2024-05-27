@@ -35,6 +35,21 @@ async function fetchData() {
   return data;
 }
 
+async function fetchUpcomingMatches() {
+  const response = await fetch("upcoming-matches.json");
+  const data = await response.json();
+
+  const table = document
+    .getElementById("upcoming-matches-table")
+    .getElementsByTagName("tbody")[0];
+  data.forEach((match) => {
+    let newRow = table.insertRow();
+    newRow.insertCell().innerHTML = match.date;
+    newRow.insertCell().innerHTML = `${match.team1} vs ${match.team2}`;
+    newRow.insertCell().innerHTML = match.location;
+  });
+}
+
 async function populateTable() {
   const data = await fetchData();
   const table = document
@@ -99,6 +114,11 @@ function calculateNCR(sequence, ncr) {
 
   return totalTime.toFixed(3);
 }
+document
+  .getElementById("upcoming-matches-btn")
+  .addEventListener("click", function () {
+    window.location.href = "upcoming-matches.html";
+  });
 
 function showModal(team) {
   const modal = document.getElementById("ncr-modal");
@@ -144,3 +164,4 @@ function showModal(team) {
 }
 
 populateTable();
+fetchUpcomingMatches();
