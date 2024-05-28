@@ -87,9 +87,19 @@
         "minutes": 9,
         "sec": 11,
         "played_against": "Thejaswini & Someshwar"
+      },
+      {
+        "minutes": 7,
+        "sec": 21,
+        "played_against": "Arun Acharya & Vanavarayan"
+      },
+      {
+        "minutes": 5,
+        "sec": 29,
+        "played_against": "Vasee & Jagadish"
       }
     ],
-    "GameSequence": "LLLLWWL",
+    "GameSequence": "LLLLWWLWW",
     "Name": "Gamma Watt"
   },
   {
@@ -484,9 +494,14 @@
         "minutes": 12,
         "sec": 44,
         "played_against": "Thejaswini & Someshwar"
+      },
+      {
+        "minutes": 7,
+        "sec": 21,
+        "played_against": "John & Elvin"
       }
     ],
-    "GameSequence": "WWLWWWLLL",
+    "GameSequence": "WWLWWWLLLL",
     "Name": "Pocket Panthers"
   },
   {
@@ -538,9 +553,14 @@
         "minutes": 10,
         "sec": 56,
         "played_against": "Likitha & Likhito"
+      },
+      {
+        "minutes": 5,
+        "sec": 29,
+        "played_against": "John & Elvin"
       }
     ],
-    "GameSequence": "LWWLWWWLL",
+    "GameSequence": "LWWLWWWLLL",
     "Name": "Double Trouble"
   },
   {
