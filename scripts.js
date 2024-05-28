@@ -114,7 +114,6 @@ function showModal(team) {
     let newRow = ncrTable.insertRow();
     newRow.insertCell().innerHTML = index + 1;
     newRow.insertCell().innerHTML = `${match.minutes}:${match.sec}`;
-    // newRow.insertCell().innerHTML = match.sec;
     newRow.insertCell().innerHTML = match.played_against;
 
     const resultCell = newRow.insertCell();
