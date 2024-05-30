@@ -43,9 +43,24 @@
         "minutes": 14,
         "sec": 48,
         "played_against": "Ankitha & Sachin"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Arun & Shalini (WO)"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Kavitha & Dharani (WO)"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Siddik & Goutham (WO)"
       }
     ],
-    "GameSequence": "WWWWWWWL",
+    "GameSequence": "WWWWWWWLWWW",
     "Name": "Strike Surgeons"
   },
   {
@@ -97,9 +112,19 @@
         "minutes": 5,
         "sec": 29,
         "played_against": "Vasee & Jagadish"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Arun & Shalini (WO)"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Kavitha & Dharani (WO)"
       }
     ],
-    "GameSequence": "LLLLWWLWW",
+    "GameSequence": "LLLLWWLWWWW",
     "Name": "Gamma Watt"
   },
   {
@@ -151,9 +176,19 @@
         "minutes": 8,
         "sec": 40,
         "played_against": "John & Elvin"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Arun & Shalini (WO)"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Kavitha & Dharani (WO)"
       }
     ],
-    "GameSequence": "LWWWWWLWL",
+    "GameSequence": "LWWWWWLWLWW",
     "Name": "Carrom Warriors"
   },
   {
@@ -381,9 +416,14 @@
         "minutes": 14,
         "sec": 48,
         "played_against": "Santosh & Sneha"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Siddik & Goutham (WO)"
       }
     ],
-    "GameSequence": "WWLLWWLWWW",
+    "GameSequence": "WWLLWWLWWWW",
     "Name": "Royal Rovers"
   },
   {
@@ -440,9 +480,14 @@
         "minutes": 10,
         "sec": 56,
         "played_against": "Vasee & Jagadish"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Arun & Shalini (WO)"
       }
     ],
-    "GameSequence": "LWLWLWWWWW",
+    "GameSequence": "LWLWLWWWWWW",
     "Name": "Balanced Dynamo"
   },
   {
@@ -499,9 +544,14 @@
         "minutes": 7,
         "sec": 21,
         "played_against": "John & Elvin"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Siddik & Goutham (WO)"
       }
     ],
-    "GameSequence": "WWLWWWLLLL",
+    "GameSequence": "WWLWWWLLLLW",
     "Name": "Pocket Panthers"
   },
   {
@@ -558,9 +608,14 @@
         "minutes": 5,
         "sec": 29,
         "played_against": "John & Elvin"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Siddik & Goutham (WO)"
       }
     ],
-    "GameSequence": "LWWLWWWLLL",
+    "GameSequence": "LWWLWWWLLLW",
     "Name": "Double Trouble"
   },
   {
@@ -612,9 +667,19 @@
         "minutes": 9,
         "sec": 11,
         "played_against": "John & Elvin"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Arun & Shalini (WO)"
+      },
+      {
+        "minutes": 0,
+        "sec": 0,
+        "played_against": "Kavitha & Dharani (WO)"
       }
     ],
-    "GameSequence": "LLWLLLWLW",
+    "GameSequence": "LLWLLLWLWWW",
     "Name": "Coin snatchers"
   }
 ]
